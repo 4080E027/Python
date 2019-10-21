@@ -36,6 +36,14 @@ print(sum)
 ```
 ### 程式設計題
 ```
+index = 0
+while index < 1:
+	print("Hello, 龍聖")
+index = 0
+while index > 1:
+	print("Hello, 龍聖")
+```
+```
 使用while 迴圈(loop)計算1+2+3+.....100
 ```
 ```
