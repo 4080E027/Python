@@ -45,6 +45,12 @@ while index > 1:
 ```
 ```
 使用while 迴圈(loop)計算1+2+3+.....100
+sum=0
+index = 1
+while index < 101:
+  sum +=index
+  print(sum)
+  index=index+1
 ```
 ```
 使用while 迴圈(loop)計算1+3+5+7.....+99
