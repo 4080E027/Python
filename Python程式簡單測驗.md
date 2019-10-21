@@ -51,6 +51,7 @@ while index < 101:
   sum +=index
   print(sum)
   index=index+1
+  5050
 ```
 ```
 使用while 迴圈(loop)計算1+3+5+7.....+99
