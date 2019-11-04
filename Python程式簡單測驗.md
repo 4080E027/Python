@@ -34,6 +34,13 @@ for x in range(1,101,2):
 print(sum)
 2500
 ```
+```
+使用For 迴圈(loop)計算1*3*5*7.....*100
+a = 1
+for i in range (1,101):
+  a = a * i 
+print(a) 
+```
 ### 程式設計題
 ```
 index = 0
@@ -62,4 +69,13 @@ while index < 101:
   print(sum)
   index=index+2
  2500
+```
+```
+使用while 迴圈(loop)計算1*3*5*7.....*99
+a = 1
+i = 1
+while i <101:
+  a = a * i
+  i = i + 1
+print(a)
 ```
